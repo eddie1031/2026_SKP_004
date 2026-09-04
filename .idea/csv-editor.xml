@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/data/부산광역시_부산항 물동량 현황_20251231.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/부산항만공사_물동량 예측_20250331.csv">
           <value>
             <Attribute>
